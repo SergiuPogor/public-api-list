@@ -8,16 +8,16 @@ A curated collection of the best free, freemium, and paid APIs for developers.
 
 | API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
-| [Stocks & Options](https://docs.steadyapi.com/#stocks-options-small-stylecolor-f8f2f2background-fa256fpadding-1px-4pxborder-radius-3pxhotsmall) | Access stock, ETF, and options data with real-time updates | `apiKey` | Yes | Yes |
-| [Instagram Social](https://docs.steadyapi.com/#instagram-social-small-stylecolor-2c1e1ebackground-15f07apadding-1px-4pxborder-radius-3pxnewsmall) | Scrape public Instagram data, posts, and user profiles | `apiKey` | Yes | Yes |
+| [Stocks & Options](https://docs.steadyapi.com/#stocks-options) | Access stock, ETF, and options data with real-time updates | `apiKey` | Yes | Yes |
+| [Instagram Social](https://docs.steadyapi.com/#instagram-social) | Scrape public Instagram data, posts, and user profiles | `apiKey` | Yes | Yes |
 | [Crypto](https://docs.steadyapi.com/#crypto) | Cryptocurrency price, market cap, and exchange data | `apiKey` | Yes | Yes |
-| [Reddit Social](https://docs.steadyapi.com/#reddit-small-stylecolor-2c1616background-fed00fpadding-1px-4pxborder-radius-3pxraisingsmall) | Track trending Reddit posts and sentiment | `apiKey` | Yes | Yes |
+| [Reddit Social](https://docs.steadyapi.com/#reddit) | Track trending Reddit posts and sentiment | `apiKey` | Yes | Yes |
 | [Real Estate](https://docs.steadyapi.com/#real-estate) | Access property listings, valuation, and housing data | `apiKey` | Yes | Yes |
-| [Baseball (MLB)](https://docs.steadyapi.com/#baseball-mlb-small-stylecolor-2c1616background-fed00fpadding-1px-4pxborder-radius-3pxraisingsmall) | MLB stats, schedules, and player data | `apiKey` | Yes | Yes |
+| [Baseball (MLB)](https://docs.steadyapi.com/#baseball-mlb) | MLB stats, schedules, and player data | `apiKey` | Yes | Yes |
 | [Hockey (NHL)](https://docs.steadyapi.com/#hockey-nhl) | NHL teams, players, and live scores | `apiKey` | Yes | Yes |
 | [Aliexpress](https://docs.steadyapi.com/#aliexpress) | Scrape product listings and pricing data from Aliexpress | `apiKey` | Yes | Yes |
-| [Amazon](https://docs.steadyapi.com/#amazon-small-stylecolor-2c1e1ebackground-15f07apadding-1px-4pxborder-radius-3pxnewsmall) | Retrieve structured Amazon product details | `apiKey` | Yes | Yes |
-| [Twitter Social](https://docs.steadyapi.com/#twitter-social-small-stylecolor-2c1e1ebackground-15f07apadding-1px-4pxborder-radius-3pxnewsmall) | Access trending topics, tweets, and user insights | `apiKey` | Yes | Yes |
+| [Amazon](https://docs.steadyapi.com/#amazon) | Retrieve structured Amazon product details | `apiKey` | Yes | Yes |
+| [Twitter Social](https://docs.steadyapi.com/#twitter-social) | Access trending topics, tweets, and user insights | `apiKey` | Yes | Yes |
 
 ---
 
