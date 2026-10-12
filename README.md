@@ -16,17 +16,22 @@ A curated collection of the best free, freemium, and paid APIs for developers.
 |:---|:---|:---|:---|:---|
 | [Stocks & Options](https://steadyapi.com/pages/stock-and-options-data-api) | Access stock, ETF, and options data with real-time updates | `apiKey` | Yes | Yes |
 | [Instagram Social](https://steadyapi.com/pages/instagram-social-api) | Scrape public Instagram data, posts, and user profiles | `apiKey` | Yes | Yes |
-| [Crypto](https://docs.steadyapi.com/#crypto) | Cryptocurrency price, market cap, and exchange data | `apiKey` | Yes | Yes |
+| [Crypto](https://steadyapi.com/pages/crypto-api) | Cryptocurrency price, market cap, and exchange data | `apiKey` | Yes | Yes |
 | [Reddit Social](https://steadyapi.com/pages/reddit-api) | Track trending Reddit posts and sentiment | `apiKey` | Yes | Yes |
-| [Real Estate](https://docs.steadyapi.com/#real-estate) | Access property listings, valuation, and housing data from Realtor | `apiKey` | Yes | Yes |
-| [Baseball (MLB)](https://docs.steadyapi.com/#baseball-mlb) | MLB stats, schedules, and player data | `apiKey` | Yes | Yes |
-| [Hockey (NHL)](https://docs.steadyapi.com/#hockey-nhl) | NHL teams, players, and live scores | `apiKey` | Yes | Yes |
-| [Aliexpress](https://docs.steadyapi.com/#aliexpress) | Scrape product listings and pricing data from Aliexpress | `apiKey` | Yes | Yes |
+| [Real Estate](https://steadyapi.com/pages/real-estate-api) | Access property listings, valuation, and housing data from Realtor | `apiKey` | Yes | Yes |
+| [Baseball (MLB)](https://steadyapi.com/pages/baseball-mlb-api) | MLB stats, schedules, and player data | `apiKey` | Yes | Yes |
+| [Hockey (NHL)](https://steadyapi.com/pages/hockey-nhl-api) | NHL teams, players, and live scores | `apiKey` | Yes | Yes |
+| [AliExpress](https://steadyapi.com/pages/aliexpress-api) | Scrape product listings and pricing data from AliExpress | `apiKey` | Yes | Yes |
 | [Amazon](https://steadyapi.com/pages/real-time-amazon-data-api) | Retrieve structured Amazon product details | `apiKey` | Yes | Yes |
-| [AutoHub API](https://steadyapi.com/pages/autohub-car-api) | Access vehicle listings, specifications, pricing data,  and depreciation | `apiKey` | Yes | Yes |
-| [Booking.com API](https://steadyapi.com/pages/bookingcom-api) | Access hotels, flights, rental cars, and destination data | `apiKey` | Yes | Yes |
+| [AutoHub](https://steadyapi.com/pages/autohub-car-api) | Access vehicle listings, specifications, pricing data, and depreciation | `apiKey` | Yes | Yes |
+| [Booking.com](https://steadyapi.com/pages/bookingcom-api) | Access hotels, flights, rental cars, and destination data | `apiKey` | Yes | Yes |
 | [Twitter Social](https://steadyapi.com/pages/twitter-social-api) | Access trending topics, tweets, and user insights | `apiKey` | Yes | Yes |
-| [ScrapeFlow API](https://steadyapi.com/pages/scrapeflow-api) | Powerful web scraping API that unblocks any website. | `apiKey` | Yes | Yes |
+| [ScrapeFlow](https://steadyapi.com/pages/scrapeflow-api) | Powerful web scraping API that unblocks any website | `apiKey` | Yes | Yes |
+| [YouTube](https://steadyapi.com/pages/youtube-api) | Search videos, channels, Shorts, comments, and transcripts | `apiKey` | Yes | Yes |
+| [TikTok](https://steadyapi.com/pages/tiktok-api) | Access public TikTok profiles, videos, and trends | `apiKey` | Yes | Yes |
+| [Walmart](https://steadyapi.com/pages/walmart-api) | Retrieve Walmart product listings, prices, and details | `apiKey` | Yes | Yes |
+| [eBay](https://steadyapi.com/pages/ebay-api) | Search eBay listings and retrieve product details | `apiKey` | Yes | Yes |
+| [Football](https://steadyapi.com/pages/football-api) | Live scores, fixtures, lineups, and season stats | `apiKey` | Yes | Yes |
 
 ---
 
